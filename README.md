@@ -9,7 +9,7 @@ This a *responsive* frontend clone of the figma design provided below:
 
 # Screenshots of the frontend
 ## Desktop Version 
-![image](https://github.com/hereisSwapnil/TechKareerxClade/assets/85278243/e8257f0b-2867-46ab-a537-5e0489a7874f)
+![image](https://github.com/hereisSwapnil/TechKareerxClade/assets/85278243/ba4649b8-ec99-4e88-bd0f-74262b12e0e2)
 ![image](https://github.com/hereisSwapnil/TechKareerxClade/assets/85278243/f8e14011-46ee-4c44-8840-5378d8eb96cd)
 
 ## Mobile Version
