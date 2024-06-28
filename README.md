@@ -4,6 +4,11 @@ This a *responsive* frontend clone of the figma design provided below:
 
 [https://www.figma.com/proto/soRLjXcSqKIApqPQ2aIEBg/Job-preview-dashboard?node-id=1-6438](https://www.figma.com/proto/soRLjXcSqKIApqPQ2aIEBg/Job-preview-dashboard?node-id=1-6438)
 
+# Differentiating Factor
+1. The Best use of React.js
+2. Using resuable components at max
+3. Responsiveness (for some extra points)
+
 # 🔴 Live Demo of the frontend
 [https://tech-kareerx-clade.vercel.app/](https://tech-kareerx-clade.vercel.app/)
 
